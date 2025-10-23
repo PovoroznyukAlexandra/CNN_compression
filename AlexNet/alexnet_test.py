@@ -2,7 +2,6 @@ import torch
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
 from tqdm import tqdm
-from collections import OrderedDict
 
 from alexnet_train import AlexNet
 
